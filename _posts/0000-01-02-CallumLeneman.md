@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Here goes nuthin'.
+Second time's the charm :+1:.
 Use the left arrow to go back!
